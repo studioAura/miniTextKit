@@ -1,0 +1,2 @@
+# miniTextKit
+My training project
